@@ -1,5 +1,9 @@
 ### Hi there 👋, I'm Brandon Camenisch!
-- 🔭 I’m currently working on [Gigakitty](https://gigakitty.com) [Nindevdo](https://nindevdo.com) and other cool projects
-- 🌱 I’m currently learning more about cloud infrastructure, trading strategies, and open-source tech
-- 💬 Ask me about AI, Docker, or cloud automation
-- ⚡ Fun fact: I love creating tools that automate tedious tasks!
+### Brandon Camenisch - Senior DevOps & Infrastructure Engineer
+
+🚀 With over 25 years of experience in development, cloud infrastructure, and leadership, I specialize in building resilient systems and delivering scalable solutions.
+### Core Expertise
+- **DevOps Tooling**: CI/CD, GitLab, Terraform, HashiCorp Vault
+- **Cloud Solutions**: AWS, GCP, Azure, Cloudflare
+- **Automation**: Infrastructure as Code (IaC), GitOps, Serverless Technologies
+- **Security**: DevSecOps, Disaster Recovery, Incident Response, Security Best Practices
