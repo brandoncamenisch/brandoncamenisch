@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Brandon Camenisch!
-### Brandon Camenisch - Senior DevOps & Infrastructure Engineer
+### Brandon Camenisch!
+### Senior DevOps & Infrastructure Engineer
 
 🚀 With over 25 years of experience in engineering, cloud infrastructure, and leadership, I specialize in building resilient systems and delivering scalable solutions.
 ### Core Expertise
