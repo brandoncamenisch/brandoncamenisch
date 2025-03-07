@@ -41,4 +41,18 @@ A highly skilled and experienced engineer with a deep understanding of **AI**, *
 
 ---
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brandoncamenisch&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brandoncamenisch&layout=compact&theme=radical)
+
+---
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=brandoncamenisch&theme=darkhub)
+
+---
+
 💻 **Powered by technology, automation, and a touch of sarcasm.** 😼
