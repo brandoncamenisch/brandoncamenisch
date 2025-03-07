@@ -4,9 +4,9 @@ A highly skilled and experienced engineer with a deep understanding of **AI**, *
 
 🔹 **Driven by curiosity**, active engagement with **quant finance**, **algorithmic trading**, and **self-hosted AI applications**. The ability to bridge software development with real-world strategies. Technical precision is combined with a sharp sense of humor, making even complex topics engaging and accessible.
 
-🎬 **Beyond finance and engineering**, strong interest in **media production**, refining high-quality video content for multiple creative projects.
+🎬 **Beyond finance and engineering**, strong interest in **media production**, refining high-quality video content for multiple creative projects. From **ASMR-style walking videos** to **algorithmic trading walkthroughs**, content creation blends technical expertise with an appreciation for storytelling and aesthetic presentation.
 
-💡 **Entrepreneurial at heart**, always an eye on new opportunities. The pursuit of **efficiency** extends beyond work, shaping a lifestyle where **automation, optimization**, and a touch of sarcasm come together to create something uniquely compelling.
+💡 **Entrepreneurial at heart**, always an eye on new opportunities—whether it's developing a **SaaS tool**, launching a **finance-focused YouTube channel**, or exploring innovative product designs. The pursuit of **efficiency** extends beyond work, shaping a lifestyle where **automation, optimization**, and a touch of sarcasm come together to create something uniquely compelling.
 
 ---
 
@@ -17,6 +17,7 @@ A highly skilled and experienced engineer with a deep understanding of **AI**, *
 | **⚙️ DevOps & Cloud Engineering** | Infrastructure automation, orchestration, and deployment strategies. Scalable systems with an emphasis on **reliability and security**. |
 | **📈 Algorithmic Trading & Quant Finance** | Development of **trading strategies**, event-driven signals, and **real-time execution**. Experience with **Alpaca, Redis, MarketStore**. |
 | **🤖 AI & Automation** | Passion for **self-hosted AI tools**, optimizing workflows, **video analysis**, and **metadata tagging**. |
+| **🎥 Content Creation & Video Production** | High-quality **media production**, including **ASMR-style content**, streaming, and finance education. Experience with **DJI Pocket 3, binaural audio, timecode sync**. |
 | **🖥 Open-Source & Community** | Active in **refining and promoting open-source projects**, ensuring usability and documentation. |
 
 ---
@@ -43,15 +44,21 @@ A highly skilled and experienced engineer with a deep understanding of **AI**, *
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brandoncamenisch&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brandoncamenisch&show_icons=true&theme=radical&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brandoncamenisch&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brandoncamenisch&layout=compact&theme=radical&include_all_commits=true)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=brandoncamenisch&theme=darkhub)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=brandoncamenisch&theme=darkhub&include_all_commits=true)
+
+---
+
+## 🚀 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=brandoncamenisch&theme=radical&include_all_commits=true)
 
 ---
 
