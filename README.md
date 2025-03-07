@@ -1,6 +1,6 @@
 # 🥷 About
 
-A highly skilled and experienced engineer with a deep understanding of **DevOps**, **cloud infrastructure**, and **software architecture**. With a track record of leadership in **automation**, **systems management**, and **algorithmic trading**, there is a passion for building scalable, self-sufficient solutions that optimize efficiency and performance.
+A highly skilled and experienced engineer with a deep understanding of **AI**, **DevOps**, **cloud infrastructure**, and **software architecture**. With a track record of leadership in **automation**, **systems management**, and **algorithmic trading**, there is a passion for building scalable, self-sufficient solutions that optimize efficiency and performance.
 
 🔹 **Driven by curiosity**, active engagement with **quant finance**, **algorithmic trading**, and **self-hosted AI applications**. The ability to bridge software development with real-world strategies. Technical precision is combined with a sharp sense of humor, making even complex topics engaging and accessible.
 
