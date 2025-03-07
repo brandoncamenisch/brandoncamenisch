@@ -44,21 +44,18 @@ A highly skilled and experienced engineer with a deep understanding of **AI**, *
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brandoncamenisch&show_icons=true&theme=radical&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brandoncamenisch&layout=compact&theme=radical&include_all_commits=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brandoncamenisch&show_icons=true&theme=radical&include_all_commits=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandoncamenisch&layout=compact&theme=radical&include_all_commits=true" height="150"/>
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=brandoncamenisch&theme=darkhub&include_all_commits=true)
-
----
-
-## 🚀 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=brandoncamenisch&theme=radical&include_all_commits=true)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=brandoncamenisch&theme=darkhub&include_all_commits=true" />
+</p>
 
 ---
 
