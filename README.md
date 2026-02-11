@@ -99,22 +99,5 @@ Efficiency > waste.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brandoncamenisch&show_icons=true&theme=radical&include_all_commits=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandoncamenisch&layout=compact&theme=radical&include_all_commits=true" height="150"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=brandoncamenisch&theme=darkhub&include_all_commits=true" />
-</p>
-
----
-
 💻 **AI Infrastructure. GPU Systems. Real-time Automation.**  
 Built to scale. Built to survive production.
