@@ -16,7 +16,7 @@ I help teams move from:
 
 > “It works on my laptop”  
 > to  
-> “It scales, it’s observable, it’s secure, and it won’t melt our GPU budget.”
+> “It scales, it’s observable, it’s secure, and it won’t melt our cloud budget.”
 
 ---
 
