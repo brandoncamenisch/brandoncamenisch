@@ -2,7 +2,7 @@
 
 AI Infrastructure & DevOps Consultant specializing in **GPU orchestration, real-time inference systems, and production-grade LLM deployment**.
 
-Senior engineer with 25+ years of experience in **cloud infrastructure, distributed systems, cybersecurity, and high-performance automation**. Proven background building scalable systems for fintech, trading platforms, AI workloads, and real-time media processing.
+Senior engineer in **cloud infrastructure, distributed systems, cybersecurity, and high-performance automation**. Proven background building scalable systems for fintech, trading platforms, AI workloads, and real-time media processing.
 
 Focused on the intersection of:
 
